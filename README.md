@@ -8,10 +8,10 @@ Submission for HW 2 for ECE 528
 3. If Timer_A is configured in up mode, the timer counts up to the value in the compare register (TAxCCR0) before rolling over.
 
 4. 
-Counter width = 24
-Clock frequency = 10 MHz = 10 x 10^6 Hz
-Max count = 10^24 - 1 = 16,777,215
-Clock cycle period = 1/(10 x 10^6 Hz) = 0.1 μs
+Counter width = 24<br>
+Clock frequency = 10 MHz = 10 x 10^6 Hz<br>
+Max count = 10^24 - 1 = 16,777,215<br>
+Clock cycle period = 1/(10 x 10^6 Hz) = 0.1 μs<br>
 Overflow period = 16777215 x (0.1 x 10^-6) ≈ 1.68 s
 
 The overflow period is about 1.68 seconds long.
